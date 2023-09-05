@@ -35,21 +35,21 @@
 
   |    Função     | Foto       | Nome                                |                     GitHub                   |
   | :----------:  | :-----------: | :-----------------------            | :------------------------------------------: |
-  | Backend Dev | <img src="docs/imagens/fotoAline.png" alt="Foto Aline"> | Aline C. Correa Costa                   | [GitHub](https://github.com/acorreac) |
-  | Scrum Master | <img src="docs/imagens/fotoAugusto.png" alt="Foto Augusto"> | Augusto Henrique Buin                    | [GitHub](https://github.com/AugustoBuin)     |
-  | Backend Dev | <img src="docs/imagens/fotoBruno.png" alt="Foto Bruno"> | Bruno Denardo                  | [GitHub](https://github.com/brunodenardo)    |
-  | Frontend Dev | <img src="docs/imagens/fotoJose.png" alt="Foto Jose"> | José V. H. Lopes de Souza                   | [GitHub](https://github.com/HenningerJv) |
-  | Backend Dev | <img src="docs/imagens/fotoMatheus.png" alt="Foto Matheus"> | Matheus Fernando Vieira de Melo  | [GitHub](https://github.com/Matheusfvm)      |
-  | Frontend Dev | <img src="docs/imagens/fotoMurilo.png" alt="Foto Murilo"> | Murilo Henrique Sangi da Silva Lima | [GitHub](https://github.com/MuriloLima03)    |
-  | Product Owner | <img src="docs/imagens/fotoPedro.png" alt="Foto Pedro"> | Pedro Henrique Silva Almeida             | [GitHub](https://github.com/PedroHSdeAlmeida) |
-  | Frontend Dev | <img src="docs/imagens/fotoRenan.png" alt="Foto Renan"> | Renan Souza Neves                        | [Github](https://github.com/Renan-Neves)     |
-  | Fullstack Dev | <img src="docs/imagens/fotoVinicius.png" alt="Foto Vinícius"> | Vinicius de Oliveira Laranjeiro         | [GitHub](https://github.com/noo-e)           |
+  | Backend Dev | <img src="docs/images/fotoAline.png" alt="Foto Aline"> | Aline C. Correa Costa                   | [GitHub](https://github.com/acorreac) |
+  | Scrum Master | <img src="docs/images/fotoAugusto.png" alt="Foto Augusto"> | Augusto Henrique Buin                    | [GitHub](https://github.com/AugustoBuin)     |
+  | Backend Dev | <img src="docs/images/fotoBruno.png" alt="Foto Bruno"> | Bruno Denardo                  | [GitHub](https://github.com/brunodenardo)    |
+  | Frontend Dev | <img src="docs/images/fotoJose.png" alt="Foto Jose"> | José V. H. Lopes de Souza                   | [GitHub](https://github.com/HenningerJv) |
+  | Backend Dev | <img src="docs/images/fotoMatheus.png" alt="Foto Matheus"> | Matheus Fernando Vieira de Melo  | [GitHub](https://github.com/Matheusfvm)      |
+  | Frontend Dev | <img src="docs/images/fotoMurilo.png" alt="Foto Murilo"> | Murilo Henrique Sangi da Silva Lima | [GitHub](https://github.com/MuriloLima03)    |
+  | Product Owner | <img src="docs/images/fotoPedro.png" alt="Foto Pedro"> | Pedro Henrique Silva Almeida             | [GitHub](https://github.com/PedroHSdeAlmeida) |
+  | Frontend Dev | <img src="docs/images/fotoRenan.png" alt="Foto Renan"> | Renan Souza Neves                        | [Github](https://github.com/Renan-Neves)     |
+  | Fullstack Dev | <img src="docs/images/fotoVinicius.png" alt="Foto Vinícius"> | Vinicius de Oliveira Laranjeiro         | [GitHub](https://github.com/noo-e)           |
 
 <span id="entregas"></span>
 <h1 align="center">Entregas:</h1>
 O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 4 entregas com sprints de 21 dias de duração cada uma.
 <br /><br />
-<img src="docs/imagens/linhaTempo.png" src="Linha do tempo">
+<img src="docs/images/Planejamento_Entregas.jpeg" src="Linha do tempo">
 <br />
 
 <span id="versao"></span>
@@ -57,10 +57,10 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 4 ent
 
 Versão Atual: Pré-Alpha
 * Pré-Alpha (Versão não testada)
-* <a href="docs/sprint1/demo_sprint1.gif">1.0 - Sprint 1 </a>
-* <a href="docs/sprint2/demo_sprint2.gif">2.0 - Sprint 2 </a>
-* <a href="docs/sprint3/demo_sprint3.gif">3.0 - Sprint 3 </a>
-* <a href="docs/sprint4/demo_sprint4.gif">4.0 - Sprint 4 </a>
+* <a href="#">1.0 - Sprint 1 </a>
+* <a href="#">2.0 - Sprint 2 </a>
+* <a href="#">3.0 - Sprint 3 </a>
+* <a href="#">4.0 - Sprint 4 </a>
 
 <span id="backlogs"></span>
 <h1 align="center">Backlog</h1>
