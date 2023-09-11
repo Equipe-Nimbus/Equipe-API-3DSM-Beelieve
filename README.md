@@ -12,7 +12,7 @@
 <span id="sobre"></span>
 <h1 align="center">Sobre:</h1>
 <p>
-  Este é um projeto de desenvolvimento de um software que visa facilitar a gestão de equipes multidisciplinares envolvidas em projetos complexos, especialmente na área militar. O software é projetado para a   SIATT (Sistemas Avançados de Tecnologia Tática), uma empresa que utiliza a metodologia IPDT (Integrated Product Development Team) para gerenciar projetos de sistemas complexos.
+  Este é um projeto de desenvolvimento de um software que visa facilitar a gestão de equipes multidisciplinares envolvidas em projetos complexos. O software é projetado para a SIATT (Sistemas Integrados de     Alto Teor Tecnológico), uma empresa que utiliza a metodologia IPDT (Integrated Product Development Team) para gerenciar projetos de sistemas complexos.
   O projeto tem como objetivo principal automatizar e simplificar os processos de gestão de projetos complexos, onde partes do sistema são atribuídas a responsáveis técnicos (RIPDTs) que gerenciam equipes     de trabalho, planejam atividades, monitoram o progresso e relatam o status de desenvolvimento.
 </p>
 
@@ -33,17 +33,17 @@
 <span id="equipe"></span>
 <h1 align="center">Equipe:</h1>
 
-  |    Função     | Foto       | Nome                                |                     GitHub                   |
-  | :----------:  | :-----------: | :-----------------------            | :------------------------------------------: |
-  | Backend Dev | <img src="docs/images/fotoAline.png" alt="Foto Aline"> | Aline C. Correa Costa                   | [GitHub](https://github.com/acorreac) |
-  | Scrum Master | <img src="docs/images/fotoAugusto.png" alt="Foto Augusto"> | Augusto Henrique Buin                    | [GitHub](https://github.com/AugustoBuin)     |
-  | Backend Dev | <img src="docs/images/fotoBruno.png" alt="Foto Bruno"> | Bruno Denardo                  | [GitHub](https://github.com/brunodenardo)    |
-  | Frontend Dev | <img src="docs/images/fotoJose.png" alt="Foto Jose"> | José V. H. Lopes de Souza                   | [GitHub](https://github.com/HenningerJv) |
-  | Backend Dev | <img src="docs/images/fotoMatheus.png" alt="Foto Matheus"> | Matheus Fernando Vieira de Melo  | [GitHub](https://github.com/Matheusfvm)      |
-  | Frontend Dev | <img src="docs/images/fotoMurilo.png" alt="Foto Murilo"> | Murilo Henrique Sangi da Silva Lima | [GitHub](https://github.com/MuriloLima03)    |
-  | Product Owner | <img src="docs/images/fotoPedro.png" alt="Foto Pedro"> | Pedro Henrique Silva Almeida             | [GitHub](https://github.com/PedroHSdeAlmeida) |
-  | Frontend Dev | <img src="docs/images/fotoRenan.png" alt="Foto Renan"> | Renan Souza Neves                        | [Github](https://github.com/Renan-Neves)     |
-  | Fullstack Dev | <img src="docs/images/fotoVinicius.png" alt="Foto Vinícius"> | Vinicius de Oliveira Laranjeiro         | [GitHub](https://github.com/noo-e)           |
+  | Função | Foto | Nome | GitHub | LinkedIn |
+  | :-: | :-: | :-: | :-: | :-: |
+  | Backend Dev | <img src="docs/images/fotoAline.png" alt="Foto Aline"> | Aline C. Correa Costa | [GitHub](https://github.com/acorreac) | [LinkedIn](https://www.linkedin.com/in/alinecorrea/) |
+  | Scrum Master | <img src="docs/images/fotoAugusto.png" alt="Foto Augusto"> | Augusto Henrique Buin | [GitHub](https://github.com/AugustoBuin) | [LinkedIn](https://www.linkedin.com/in/augusto-henrique-buin-a58bb0208/) |
+  | Backend Dev | <img src="docs/images/fotoBruno.png" alt="Foto Bruno"> | Bruno Denardo  | [GitHub](https://github.com/brunodenardo) | [LinkedIn](https://www.linkedin.com/in/bruno-denardo/) |
+  | Frontend Dev | <img src="docs/images/fotoJose.png" alt="Foto Jose"> | José V. H. Lopes de Souza | [GitHub](https://github.com/HenningerJv) | [LinkedIn](https://www.linkedin.com/in/jose-victor-henninger-7661b928a/) |
+  | Backend Dev | <img src="docs/images/fotoMatheus.png" alt="Foto Matheus"> | Matheus Fernando Vieira de Melo | [GitHub](https://github.com/Matheusfvm) | [LinkedIn]() |
+  | Frontend Dev | <img src="docs/images/fotoMurilo.png" alt="Foto Murilo"> | Murilo Henrique Sangi da Silva Lima | [GitHub](https://github.com/MuriloLima03) | [LinkedIn]() |
+  | Product Owner | <img src="docs/images/fotoPedro.png" alt="Foto Pedro"> | Pedro Henrique Silva Almeida | [GitHub](https://github.com/PedroHSdeAlmeida) | [LinkedIn](https://www.linkedin.com/in/pedroalmeidadev/) |
+  | Frontend Dev | <img src="docs/images/fotoRenan.png" alt="Foto Renan"> | Renan Souza Neves | [Github](https://github.com/Renan-Neves) | [LinkedIn]() |
+  | Fullstack Dev | <img src="docs/images/fotoVinicius.png" alt="Foto Vinícius"> | Vinicius de Oliveira Laranjeiro | [GitHub](https://github.com/noo-e) | [LinkedIn]() |
 
 <span id="entregas"></span>
 <h1 align="center">Entregas:</h1>
