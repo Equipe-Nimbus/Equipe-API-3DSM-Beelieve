@@ -1,0 +1,6 @@
+[submodule "Equipe-API-3DSM-Beelieve-Backend"]
+	path = Equipe-API-3DSM-Beelieve-Backend
+	url = https://github.com/Equipe-API-2DSM/Equipe-API-3DSM-Beelieve-Backend.git
+[submodule "Equipe-API-3DSM-Beelieve-Frontend"]
+	path = Equipe-API-3DSM-Beelieve-Frontend
+	url = https://github.com/Equipe-API-2DSM/Equipe-API-3DSM-Beelieve-Frontend.git
