@@ -39,11 +39,11 @@
   | Scrum Master | <img src="docs/images/fotoAugusto.png" alt="Foto Augusto"> | Augusto Henrique Buin | [GitHub](https://github.com/AugustoBuin) | [LinkedIn](https://www.linkedin.com/in/augusto-henrique-buin-a58bb0208/) |
   | Backend Dev | <img src="docs/images/fotoBruno.png" alt="Foto Bruno"> | Bruno Denardo  | [GitHub](https://github.com/brunodenardo) | [LinkedIn](https://www.linkedin.com/in/bruno-denardo/) |
   | Frontend Dev | <img src="docs/images/fotoJose.png" alt="Foto Jose"> | José V. H. Lopes de Souza | [GitHub](https://github.com/HenningerJv) | [LinkedIn](https://www.linkedin.com/in/jose-victor-henninger-7661b928a/) |
-  | Backend Dev | <img src="docs/images/fotoMatheus.png" alt="Foto Matheus"> | Matheus Fernando Vieira de Melo | [GitHub](https://github.com/Matheusfvm) | [LinkedIn]() |
-  | Frontend Dev | <img src="docs/images/fotoMurilo.png" alt="Foto Murilo"> | Murilo Henrique Sangi da Silva Lima | [GitHub](https://github.com/MuriloLima03) | [LinkedIn]() |
+  | Backend Dev | <img src="docs/images/fotoMatheus.png" alt="Foto Matheus"> | Matheus Fernando Vieira de Melo | [GitHub](https://github.com/Matheusfvm) | [LinkedIn](www.linkedin.com/in/matheus-melo-b09474224) |
+  | Frontend Dev | <img src="docs/images/fotoMurilo.png" alt="Foto Murilo"> | Murilo Henrique Sangi da Silva Lima | [GitHub](https://github.com/MuriloLima03) | [LinkedIn](https://www.linkedin.com/in/murilo-sangi-062780285/) |
   | Product Owner | <img src="docs/images/fotoPedro.png" alt="Foto Pedro"> | Pedro Henrique Silva Almeida | [GitHub](https://github.com/PedroHSdeAlmeida) | [LinkedIn](https://www.linkedin.com/in/pedroalmeidadev/) |
-  | Frontend Dev | <img src="docs/images/fotoRenan.png" alt="Foto Renan"> | Renan Souza Neves | [Github](https://github.com/Renan-Neves) | [LinkedIn]() |
-  | Fullstack Dev | <img src="docs/images/fotoVinicius.png" alt="Foto Vinícius"> | Vinicius de Oliveira Laranjeiro | [GitHub](https://github.com/noo-e) | [LinkedIn]() |
+  | Frontend Dev | <img src="docs/images/fotoRenan.png" alt="Foto Renan"> | Renan Souza Neves | [Github](https://github.com/Renan-Neves) | [LinkedIn](https://br.linkedin.com/in/renan-neves-286735224) |
+  | Fullstack Dev | <img src="docs/images/fotoVinicius.png" alt="Foto Vinícius"> | Vinicius de Oliveira Laranjeiro | [GitHub](https://github.com/noo-e) | [LinkedIn](https://www.linkedin.com/in/vinicius-laranjeiro-296b371bb) |
 
 <span id="entregas"></span>
 <h1 align="center">Entregas:</h1>
@@ -63,25 +63,28 @@ Versão Atual: Pré-Alpha
 * <a href="#">4.0 - Sprint 4 </a>
 
 <span id="backlogs"></span>
-<h1 align="center">Backlog</h1>
-<h3>Backlog do Produto</h3>
+<h1 align="center">Backlog do Produto</h1>
 
-| Sprint | Requisitos |
-| :--:   | :-----------:  |
-| **01** | Cadastro de Projeto |
-| **01** | Listagem de Projetos  | 
-| **01** | Cadastro de Subníveis  |
-| **01** | Inserção de valor(R$) e estimativa de horas em diferentes subníveis do projeto |
-| **01** | Inserção de atividades, prazos, e pesos em diferentes subniveis do projeto | 
-| **02** | Leitura de arquivo Excel com partes do projeto em diferentes subniveis  |
-| **02** |  Salvamento do progresso (tasks e IPDT)| 
-| **02** | Exibir um grafico no estilo gantt | 
-| **02** | Exibir grafico planejado x executado "S" |
-| **03** | Geração de um arquivo excel com o status de avanço em cada subnível do projeto | 
-| **03** | Leitura de arquivo Excel com lista de recursos |
-| **03** | Diferentes níveis de acesso |
-| **03** | Atribuição de pacotes de trabalho |
-| **04** | Cadastro de usuário | 
-| **04** | Listagem de usuário |
-| **04** | Alteração dos dados do usuário (CRUD) |
-| **04** | Alteração dos dados do projeto(CRUD) |
+| Sprint | Requisitos | User Story | 
+| :-: | :-: | :-: |
+| **01** | Cadastro de Projeto | Eu como gerente desejo criar novos projetos diretamente no sistema, a fim de não depender de arquivos excel para o mesmo |
+| **01** | Listagem de Projetos | Eu como gerente desejo vizualizar os projetos ja cadastrados para ter acesso a suas informações |
+| **01** | Cadastro de Subníveis | Eu como gerente desejo criar subníveis em um projeto, a fim de dividi-lo em pacotes de trabalho |
+| **01** | Listagem de Subníveis | Eu como engenheiro/lider desejo vizualizar os subníveis já cadastrados para ter acesso a suas informações |
+| **01** | Inserção de valor e estimativa de horas em diferentes subníveis do projeto | Eu como gerente/RIPDT desejo poder inserir valores e estimar horas em diferentes subníveis do projeto, a fim de planejar melhor a linha base do conograma |
+| **01** | Vizualização geral do projeto e calculo Valor/hora estimados | Eu como gerente/RIPDT desejo poder vizualisar os valores e as horas de todos subníveis do projeto, a fim de planejar melhor a linha base do conograma |
+| **01** | Inserção de micro atividades | Eu como engenheiro/lider desejo poder inserir micro atividades nos pacotes/subpacotes de trabalho, a fim de criar um conograma detalhado e acompanhar cada parte do desenvolvimento do projeto |
+| **01** | Inserção de prazos e pesos nas micro atividades | Eu como engenheiro/lider desejo poder inserir prazos e pesos nas micro atividades, a fim de contribuir com a vizualização do progresso no projeto |
+| **02** | Leitura de arquivo Excel com partes do projeto em diferentes subniveis | Eu como gerente/engenheiro desejo poder fazer o upload de arquivos excel contendo a estrutura do projeto (com subníveis), a fim de automatizar esse processo, após essa leitura e estruturação, deve ser possível a edição do mesmo. |
+| **02** | Definir linha base do cronograma (Planejar o avanço do projeto) | Eu como engenheiro chefe desejo poder fazer o planejamento do avanço do projeto, a fim de organizar melhor o desenvolvimento |
+| **02** | Salvamento do progresso (tasks e IPDT) | Eu como lider desejo poder salvar o progresso do pacote de trabalho, a fim de contribuir com as metricas do projeto |
+| **02** | Exibir um grafico no estilo gantt | Eu como gerente/engenheiro/lider desejo que o sistema exiba um grafico no padrão Gantt, afim de ter uma visão mais detalhada do planejamento do desenvolviento do projeto |
+| **02** | Exibir grafico planejado x executado "S" | Eu como gerente/engenheiro/lider desejo que o sistema exiba um grafico com o avanço do projeto (curva "S", planejado x executado), a fim de vizualizar de forma mais simplificada o andamento do projeto |
+| **03** | Geração de um arquivo excel com o status de avanço em cada subnível do projeto | Eu como engenheiro/lider desejo poder gerar um arquivo de excel contendo os status do avanço de cada subnível do projeto, a fim de facilitar o compartilhamento desse arquivo |
+| **03** | Leitura de arquivo Excel com lista de recursos | Eu como gerente/engenheiro desejo poder fazer o upload de arquivos excel contendo lista de pessoas e seus respectivos papeis, a fim de automatizar esse processo |
+| **03** | Diferentes níveis de acesso | Eu como gerente desejo que o sistema tenha diferentes níveis de acesso, a fim de restringir o acesso dos usuários de acordo com seu papel |
+| **03** | Atribuição de pacotes de trabalho | Eu como engenheiro chefe desejo atribuir pacotes de trabalho a diferentes lideres de projeto, a fim de poder avançar com o projeto normalmente |
+| **04** | Cadastro de usuário | Eu como gerente/engenheiro/lider desejo poder cadastrar novos usuarios, a fim fornecer acesso às funcionalidades do sistema aos colaboradores envolvidos no projeto |
+| **04** | Listagem de usuário | Eu como gerente/engenheiro desejo vizualizar os usuarios ja cadastrados para ter acesso a suas informações |
+| **04** | Alteração dos dados do usuário (CRUD) | Eu como gerente/engenheiro/lider desejo poder alterar os dados do usuario, a fim de poder gerenciar o mesmo |
+| **04** | Alteração dos dados do projeto(CRUD) | Eu como gerente/engenheiro desejo poder alterar os dados do projeto, a fim de poder gerenciar o mesmo |
