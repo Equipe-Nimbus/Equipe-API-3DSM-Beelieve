@@ -68,23 +68,38 @@ Versão Atual: Pré-Alpha
 | Sprint | Requisitos | User Story | 
 | :-: | :-: | :-: |
 | **01** | Cadastro de Projeto | Eu como gerente desejo criar novos projetos diretamente no sistema, a fim de não depender de arquivos excel para o mesmo |
-| **01** | Listagem de Projetos | Eu como gerente desejo vizualizar os projetos ja cadastrados para ter acesso a suas informações |
-| **01** | Cadastro de Subníveis | Eu como gerente desejo criar subníveis em um projeto, a fim de dividi-lo em pacotes de trabalho |
-| **01** | Listagem de Subníveis | Eu como engenheiro/lider desejo vizualizar os subníveis já cadastrados para ter acesso a suas informações |
+| **01** | Listagem de Projetos | Eu como gerente desejo vizualizar os projetos já cadastrados para ter acesso a suas informações |
+| **01** | Cadastro de Subníveis | Eu como gerente desejo criar subníveis em um projeto, a fim de dividí-lo em pacotes de trabalho |
+| **01** | Listagem de Subníveis | Eu como engenheiro/líder desejo vizualizar os subníveis já cadastrados para ter acesso a suas informações |
 | **01** | Inserção de valor e estimativa de horas em diferentes subníveis do projeto | Eu como gerente/RIPDT desejo poder inserir valores e estimar horas em diferentes subníveis do projeto, a fim de planejar melhor a linha base do conograma |
-| **01** | Vizualização geral do projeto e calculo Valor/hora estimados | Eu como gerente/RIPDT desejo poder vizualisar os valores e as horas de todos subníveis do projeto, a fim de planejar melhor a linha base do conograma |
-| **01** | Inserção de micro atividades | Eu como engenheiro/lider desejo poder inserir micro atividades nos pacotes/subpacotes de trabalho, a fim de criar um conograma detalhado e acompanhar cada parte do desenvolvimento do projeto |
+| **01** | Vizualização geral do projeto e cálculo Valor/hora estimados | Eu como gerente/RIPDT desejo poder vizualisar os valores e as horas de todos subníveis do projeto, a fim de planejar melhor a linha base do conograma |
+| **01** | Inserção de micro atividades | Eu como engenheiro/líder desejo poder inserir micro atividades nos pacotes/subpacotes de trabalho, a fim de criar um conograma detalhado e acompanhar cada parte do desenvolvimento do projeto |
 | **01** | Inserção de prazos e pesos nas micro atividades | Eu como engenheiro/lider desejo poder inserir prazos e pesos nas micro atividades, a fim de contribuir com a vizualização do progresso no projeto |
-| **02** | Leitura de arquivo Excel com partes do projeto em diferentes subniveis | Eu como gerente/engenheiro desejo poder fazer o upload de arquivos excel contendo a estrutura do projeto (com subníveis), a fim de automatizar esse processo, após essa leitura e estruturação, deve ser possível a edição do mesmo. |
+| **02** | Leitura de arquivo Excel com partes do projeto em diferentes subniveis | Eu como gerente/engenheiro desejo poder fazer o upload de arquivos excel contendo a estrutura do projeto (com subníveis), a fim de automatizar esse processo, e após essa leitura e estruturação, deve ser possível a edição do mesmo. |
 | **02** | Definir linha base do cronograma (Planejar o avanço do projeto) | Eu como engenheiro chefe desejo poder fazer o planejamento do avanço do projeto, a fim de organizar melhor o desenvolvimento |
-| **02** | Salvamento do progresso (tasks e IPDT) | Eu como lider desejo poder salvar o progresso do pacote de trabalho, a fim de contribuir com as metricas do projeto |
-| **02** | Exibir um grafico no estilo gantt | Eu como gerente/engenheiro/lider desejo que o sistema exiba um grafico no padrão Gantt, afim de ter uma visão mais detalhada do planejamento do desenvolviento do projeto |
-| **02** | Exibir grafico planejado x executado "S" | Eu como gerente/engenheiro/lider desejo que o sistema exiba um grafico com o avanço do projeto (curva "S", planejado x executado), a fim de vizualizar de forma mais simplificada o andamento do projeto |
+| **02** | Salvamento do progresso (tasks e IPDT) | Eu como lider desejo poder salvar o progresso do pacote de trabalho, a fim de contribuir com as métricas do projeto |
+| **02** | Exibir um gráfico no estilo gantt | Eu como gerente/engenheiro/líder desejo que o sistema exiba um gráfico no padrão Gantt, a fim de ter uma visão mais detalhada do planejamento do desenvolvimento do projeto |
+| **02** | Exibir gráfico planejado x executado "S" | Eu como gerente/engenheiro/líder desejo que o sistema exiba um gráfico com o avanço do projeto (curva "S", planejado x executado), a fim de vizualizar de forma mais simplificada o andamento do projeto |
 | **03** | Geração de um arquivo excel com o status de avanço em cada subnível do projeto | Eu como engenheiro/lider desejo poder gerar um arquivo de excel contendo os status do avanço de cada subnível do projeto, a fim de facilitar o compartilhamento desse arquivo |
-| **03** | Leitura de arquivo Excel com lista de recursos | Eu como gerente/engenheiro desejo poder fazer o upload de arquivos excel contendo lista de pessoas e seus respectivos papeis, a fim de automatizar esse processo |
+| **03** | Leitura de arquivo Excel com lista de recursos | Eu como gerente/engenheiro desejo poder fazer o upload de arquivos excel contendo lista de pessoas e seus respectivos papéis, a fim de automatizar esse processo |
 | **03** | Diferentes níveis de acesso | Eu como gerente desejo que o sistema tenha diferentes níveis de acesso, a fim de restringir o acesso dos usuários de acordo com seu papel |
-| **03** | Atribuição de pacotes de trabalho | Eu como engenheiro chefe desejo atribuir pacotes de trabalho a diferentes lideres de projeto, a fim de poder avançar com o projeto normalmente |
-| **04** | Cadastro de usuário | Eu como gerente/engenheiro/lider desejo poder cadastrar novos usuarios, a fim fornecer acesso às funcionalidades do sistema aos colaboradores envolvidos no projeto |
-| **04** | Listagem de usuário | Eu como gerente/engenheiro desejo vizualizar os usuarios ja cadastrados para ter acesso a suas informações |
-| **04** | Alteração dos dados do usuário (CRUD) | Eu como gerente/engenheiro/lider desejo poder alterar os dados do usuario, a fim de poder gerenciar o mesmo |
+| **03** | Atribuição de pacotes de trabalho | Eu como engenheiro chefe desejo atribuir pacotes de trabalho a diferentes líderes de projeto, a fim de poder avançar com o projeto normalmente |
+| **04** | Cadastro de usuário | Eu como gerente/engenheiro/lider desejo poder cadastrar novos usuários, a fim fornecer o acesso das funcionalidades do sistema aos colaboradores envolvidos no projeto |
+| **04** | Listagem de usuário | Eu como gerente/engenheiro desejo vizualizar os usuários já cadastrados para ter acesso a suas informações |
+| **04** | Alteração dos dados do usuário (CRUD) | Eu como gerente/engenheiro/lider desejo poder alterar os dados do usuário, a fim de poder gerenciar o mesmo |
 | **04** | Alteração dos dados do projeto(CRUD) | Eu como gerente/engenheiro desejo poder alterar os dados do projeto, a fim de poder gerenciar o mesmo |
+
+<span id="criterios"></span>
+<h1 align="center">Critérios de Aceitação: Sprint 1</h1>
+
+
+| Requisitos | Critérios de Aceitação |
+| :-: | :-: |
+| Cadastro de Projeto | 1 - Deve haver uma página com um formulário de cadastro para o projeto. 2 - Tudo o que é inserido nesse formulário deverá ser guardado no banco de dados. 3 -Todas as páginas devem estar estilizadas. |
+| Listagem de Projetos | 1 - Deve haver uma página 'home' que liste todos os projetos. 2 - Ao clicar em algum projeto, deve haver informações relevantes, como o progresso e a lista de pacotes de trabalho. 3 - Todas as páginas devem estar estilizadas. |
+| Cadastro de Subníveis | 1 - Deve haver uma página com um formulário de cadastro para pacotes de trabalho. 2 - Deve haver uma página de cadastro de subpacotes. 3 - Não deve ser possível cadastrar outros subníveis após o subpacote. 4 - Todos esses cadastros devem ser persistidos em um banco de dados. 5 - Todas as páginas devem ser estilizadas. |
+| Listagem de Subníveis | 1 - Ao clicar em um projeto, deve haver uma lista com todos os pacotes de trabalho. 2 - Ao clicar em um pacote de trabalho deve haver uma lista de subpacotes. 3 - Todas as páginas devem estar estilizadas. |
+| Inserção de valor e estimativa de horas em diferentes subníveis do projeto | 1 - Ao clicar em um projeto, deve haver um campo onde é possível inserir o valor 'hora trabalhada' para aquele projeto. 2 - Ao clicar em um pacote de trabalho sem subpacotes, deve haver um campo para inserir a estimativa de horas para aquele pacote. 3 - Ao clicar em um subpacote, deve haver um campo para inserir a estimativa de horas para aquele subpacote. 4 - Os pacotes de trabalho que foram divididos em subpacotes não devem conter campo para estimativa de horas. |
+| Vizualização geral do projeto e calculo Valor/Hora estimados | 1 - Deve haver um campo que exiba o valor e as horas estimadas no subpacote, no pacote de trabalho e no projeto. 2 - O cálculo do valor estimado deve ser feito automaticamente pelo software, à partir dos dados inseridos (Valor hora trabalhada * estimativa de horas). 3 - Os valores devem se atribuir automaticamente. Para o pacote de trabalho com subpacotes, o valor e as horas estimadas do pacote de trabalho devem ser a soma de seus subpacotes. Para o pacote de trabalho sem subpacotes, o cálculo deve ser feito diretamente. Para o projeto basta somar todos os pacotes de trabalho. 4 - Todas as páginas devem ser estilizadas |
+| Inserção de micro atividades | 1 - Ao clicar em um pacote/subpacote de trabalho deve haver um campo para inserção de micro atividades. 2 - Não devem ser inseridas micro atividades nos pacotes de trabalho que contém subpacotes, mas sim em seus subpacotes. 3 - Todas as páginas devem ser estilizadas. |
+| Inserção de prazos e pesos nas micro atividades | 1 - Ao clicar em uma micro atividade devem haver campos para inserção de peso e prazo. 2 - Deve ser obrigatório o preenchimento do peso da micro atividade. 3 - Deve ser opcional o preenchimento do prazo. 4 - Todas as páginas devem ser estilizadas. |
