@@ -7,8 +7,8 @@
     <a href="#equipe">Equipe</a> | 
     <a href="#entregas">Entregas</a> | 
     <a href="#backlogs">Backlogs</a> |
-    <a href="#links">Sobre</a> |
-    <a href="#versao">Sobre</a> |
+    <a href="#links">Links</a> |
+    <a href="#versao">Versionamento</a> |
 
 </p>
 
