@@ -12,8 +12,10 @@
 <span id="sobre"></span>
 <h1 align="center">Sobre:</h1>
 <p>
-  Este é um projeto de desenvolvimento de um software que visa facilitar a gestão de equipes multidisciplinares envolvidas em projetos complexos. O software é projetado para a SIATT (Sistemas Integrados de     Alto Teor Tecnológico), uma empresa que utiliza a metodologia IPDT (Integrated Product Development Team) para gerenciar projetos de sistemas complexos.
-  O projeto tem como objetivo principal automatizar e simplificar os processos de gestão de projetos complexos, onde partes do sistema são atribuídas a responsáveis técnicos (RIPDTs) que gerenciam equipes     de trabalho, planejam atividades, monitoram o progresso e relatam o status de desenvolvimento.
+  Esta é uma iniciativa de desenvolvimento de um software que visa facilitar a gestão de equipes multidisciplinares envolvidas em projetos complexos, planejado para uma empresa parceira do ramo armamentista, que tradicionalmente utiliza metodologias estabelecidas na Gestão de Projetos e Engenharia de Sistemas, incluindo o uso do conceito de IPDT (Integrated Product Development Team), que organiza equipes multidisciplinares para desenvolver projetos. 
+  Inicialmente, um projeto é dividido em partes menores, até o nível de subsistemas. Cada subsistema é designado a um responsável técnico chamado RIPDT (Responsável por IPDT), que atua como gestor de projeto. Os RIPDTs recebem pacotes de trabalho e prazos para cumprir. Eles são responsáveis por negociar equipes de trabalho, planejar atividades, acompanhar o progresso do trabalho e relatar o status do desenvolvimento em reuniões mensais de acompanhamento.
+  No entanto, o processo atual de preenchimento de documentos necessários para cada etapa do processo é manual, com documentos dispersos em diferentes arquivos, como planilhas Excel. O desafio proposto é desenvolver um "Software para Gestão de Times de Projetos Complexos" que automatize todo o trabalho de gerenciamento de equipes integradas. Esse software estaria acessível por meio de um portal na intranet da empresa, facilitando o acompanhamento e a gestão de projetos complexos que estão em desenvolvimento.
+
 </p>
 
 <span id="tecnologias"></span>
