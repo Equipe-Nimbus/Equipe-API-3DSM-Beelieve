@@ -9,13 +9,14 @@
     <a href="#backlogs">Backlogs</a> |
     <a href="#links">Links</a> |
     <a href="#versao">Versionamento</a> |
+    <a href="#gif">Gif</a> |
 
 </p>
 
 <span id="sobre"></span>
 <h1 align="center">Sobre:</h1>
 <p>
-Esta é uma iniciativa de desenvolvimento de um software que visa facilitar a gestão de equipes multidisciplinares envolvidas em projetos complexos, planejado para uma empresa parceira do ramo armamentista, que tradicionalmente utiliza metodologias estabelecidas na Gestão de Projetos e Engenharia de Sistemas, incluindo o uso do conceito de IPDT (Integrated Product Development Team), que organiza equipes multidisciplinares para desenvolver projetos.
+Esta é uma iniciativa de desenvolvimento de um software que visa facilitar a gestão de equipes multidisciplinares envolvidas em projetos complexos, planejado para uma empresa parceira do ramo armamentista, que tradicionalmente utiliza metodologias estabelecidas na Gestão de Projetos e Engenharia de Sistemas, incluindo o uso do conceito do IPDT (Integrated Product Development Team) e do WBS (Work Breakdown Structure), que organizam equipes multidisciplinares para desenvolver projetos. 
 </p>
 <p>
 Inicialmente, um projeto é dividido em partes menores, até o nível de subsistemas. Cada subsistema é designado a um responsável técnico chamado RIPDT (Responsável por IPDT), que atua como gestor de projeto. Os RIPDTs recebem pacotes de trabalho e prazos para cumprir. Eles são responsáveis por negociar equipes de trabalho, planejar atividades, acompanhar o progresso do trabalho e relatar o status do desenvolvimento em reuniões mensais de acompanhamento.
@@ -34,7 +35,6 @@ No entanto, o processo atual de preenchimento de documentos necessários para ca
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"></img>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></img>&nbsp;
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"></img>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"></img>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></img>&nbsp;
 </p>
 
@@ -69,12 +69,17 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 4 ent
 <span id="versao"></span>
 <h1 align="center">Versionamento:</h1>
 
-Versão Atual: Pré-Alpha
+Versão Atual: 1.0
 * Pré-Alpha (Versão não testada)
 * <a href="#">1.0 - Sprint 1 </a>
 * <a href="#">2.0 - Sprint 2 </a>
 * <a href="#">3.0 - Sprint 3 </a>
 * <a href="#">4.0 - Sprint 4 </a>
+
+<span id="gif"></span>
+<h1 align="center">Gif:</h1>
+
+<img src="docs/images/Sprint1-Beelieve.gif"></img>&nbsp;
 
 <span id="backlogs"></span>
 <h1 align="center">Backlog do Produto</h1>
