@@ -46,6 +46,7 @@ No entanto, o processo atual de preenchimento de documentos necessários para ca
   | Backend Dev | <img src="docs/images/fotoAline.png" alt="Foto Aline"> | Aline C. Correa Costa | [GitHub](https://github.com/acorreac) | [LinkedIn](https://www.linkedin.com/in/alinecorrea/) |
   | Scrum Master | <img src="docs/images/fotoAugusto.png" alt="Foto Augusto"> | Augusto Henrique Buin | [GitHub](https://github.com/AugustoBuin) | [LinkedIn](https://www.linkedin.com/in/augusto-henrique-buin-a58bb0208/) |
   | Backend Dev | <img src="docs/images/fotoBruno.png" alt="Foto Bruno"> | Bruno Denardo  | [GitHub](https://github.com/brunodenardo) | [LinkedIn](https://www.linkedin.com/in/bruno-denardo/) |
+  | Frontend Dev | <img src="docs/images/fotoFelipe.png" alt="Foto Felipe"> | Felipe Augusto Graciano | [GitHub](https://github.com/Yetgvg) | [LinkedIn](https://www.linkedin.com/in/felipe-augusto-graciano-2b796026a/) |
   | Frontend Dev | <img src="docs/images/fotoJose.png" alt="Foto Jose"> | José V. H. Lopes de Souza | [GitHub](https://github.com/HenningerJv) | [LinkedIn](https://www.linkedin.com/in/jose-victor-henninger-7661b928a/) |
   | Backend Dev | <img src="docs/images/fotoMatheus.png" alt="Foto Matheus"> | Matheus Fernando Vieira de Melo | [GitHub](https://github.com/Matheusfvm) | [LinkedIn](www.linkedin.com/in/matheus-melo-b09474224) |
   | Frontend Dev | <img src="docs/images/fotoMurilo.png" alt="Foto Murilo"> | Murilo Henrique Sangi da Silva Lima | [GitHub](https://github.com/MuriloLima03) | [LinkedIn](https://www.linkedin.com/in/murilo-sangi-062780285/) |
