@@ -70,10 +70,10 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 4 ent
 <span id="versao"></span>
 <h1 align="center">Versionamento:</h1>
 
-Versão Atual: 1.0
+Versão Atual: 2.0
 * Pré-Alpha (Versão não testada)
-* <a href="#">1.0 - Sprint 1 </a>
-* <a href="#">2.0 - Sprint 2 </a>
+* <a href="sprint1">1.0 - Sprint 1 </a>
+* <a href="sprint2">2.0 - Sprint 2 </a>
 * <a href="#">3.0 - Sprint 3 </a>
 * <a href="#">4.0 - Sprint 4 </a>
 
@@ -109,7 +109,7 @@ Versão Atual: 1.0
 | **04** | Alteração dos dados do usuário | Eu como gerente/engenheiro/líder desejo poder alterar os dados do usuário, a fim de poder gerenciar o mesmo |
 | **04** | Atribuição de pacotes de trabalho | Eu como engenheiro chefe desejo atribuir pacotes de trabalho a diferentes lideres de projeto, a fim de poder avançar com o projeto normalmente |
 
-</br><span id="criterios"></span>
+</br><span id="criterios"></span><span id="sprint1"></span>
 <h1 align="center">Critérios de Aceitação: Sprint 1</h1>
 
 | Requisitos | Critérios de Aceitação |
@@ -122,6 +122,7 @@ Versão Atual: 1.0
 | Listagem de atividadess | 1 - Ao clicar em um pacote/subpacote de trabalho deve haver uma página que liste todos as atividades do mesmo. 2 - Nessa listagem devera ter os seguintes campos da atividade: Id, descrição, resultado esperado, execução, peso e previsão. 3 - Todas as páginas devem estar estilizadas |
 | Alteração dos dados da atividade | 1 - A tabela de atividades deve ser editável. 2 - Deve ser permitido alterar/deletar todos os dados da atividade, exceto a descrição, que pode ser alterada mas nunca pode ser nula. 3 - Todos os dados devem ser persistidos em um banco de dados. 4 - Todas as páginas devem ser estilizadas |
 
+<span id="sprint2"></span>
 </br><h1 align="center">Critérios de Aceitação: Sprint 2</h1>
 
 | Requisitos | Critérios de Aceitação |
