@@ -36,6 +36,7 @@ No entanto, o processo atual de preenchimento de documentos necessários para ca
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"></img>&nbsp;
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"></img>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></img>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-4479A1.svg?style=for-the-badge&logo=MongoDB&logoColor=white"></img>&nbsp;
 </p>
 
 <span id="equipe"></span>
@@ -52,7 +53,7 @@ No entanto, o processo atual de preenchimento de documentos necessários para ca
   | Frontend Dev | <img src="docs/images/fotoMurilo.png" alt="Foto Murilo"> | Murilo Henrique Sangi da Silva Lima | [GitHub](https://github.com/MuriloLima03) | [LinkedIn](https://www.linkedin.com/in/murilo-sangi-062780285/) |
   | Product Owner | <img src="docs/images/fotoPedro.png" alt="Foto Pedro"> | Pedro Henrique Silva Almeida | [GitHub](https://github.com/PedroHSdeAlmeida) | [LinkedIn](https://www.linkedin.com/in/pedroalmeidadev/) |
   | Frontend Dev | <img src="docs/images/fotoRenan.png" alt="Foto Renan"> | Renan Souza Neves | [Github](https://github.com/Renan-Neves) | [LinkedIn](https://br.linkedin.com/in/renan-neves-286735224) |
-  | Fullstack Dev | <img src="docs/images/fotoVinicius.png" alt="Foto Vinícius"> | Vinicius de Oliveira Laranjeiro | [GitHub](https://github.com/noo-e) | [LinkedIn](https://www.linkedin.com/in/vinicius-laranjeiro-296b371bb) |
+  | Frontend Dev | <img src="docs/images/fotoVinicius.png" alt="Foto Vinícius"> | Vinicius de Oliveira Laranjeiro | [GitHub](https://github.com/noo-e) | [LinkedIn](https://www.linkedin.com/in/vinicius-laranjeiro-296b371bb) |
 
 <span id="entregas"></span>
 <h1 align="center">Entregas:</h1>
@@ -70,12 +71,10 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 4 ent
 <span id="versao"></span>
 <h1 align="center">Versionamento:</h1>
 
-Versão Atual: 2.0
-* Pré-Alpha (Versão não testada)
-* <a href="sprint1">1.0 - Sprint 1 </a>
-* <a href="sprint2">2.0 - Sprint 2 </a>
-* <a href="#">3.0 - Sprint 3 </a>
-* <a href="#">4.0 - Sprint 4 </a>
+A versão atual do projeto é a 2.0, equivalente à entrega da 2ª Sprint. 
+* <a href="#sprint1">Sprint 1</a>
+* <a href="#sprint2">Sprint 2</a>
+* <a href="#sprint3">Sprint 3</a>
 
 <span id="gif"></span>
 <h1 align="center">Gif:</h1>
@@ -99,15 +98,13 @@ Versão Atual: 2.0
 | **02** | Leitura de arquivo Excel com partes do projeto em diferentes subniveis | Eu como gerente/engenheiro desejo poder fazer o upload de arquivos excel contendo a estrutura do projeto (com subníveis), a fim de automatizar esse processo, e após essa leitura e estruturação, deve ser possível a edição do mesmo |
 | **02** | Definir linha base do cronograma (Planejar o avanço do projeto) | Eu como engenheiro chefe desejo poder fazer o planejamento do avanço do projeto, a fim de organizar melhor o desenvolvimento |
 | **02** | Salvamento do progresso (tasks e IPDT) | Eu como líder desejo poder salvar o progresso do pacote de trabalho, a fim de contribuir com as métricas do projeto |
-| **03** | (Cronograma) Exibir um gráfico no estilo Gantt | Eu como gerente/engenheiro/líder desejo que o sistema exiba um gráfico no padrão Gantt, a fim de ter uma visão mais detalhada do planejamento do desenvolvimento do projeto |
 | **03** | Exibir gráfico planejado x executado "S" | Eu como gerente/engenheiro/líder desejo que o sistema exiba um gráfico com o avanço do projeto (curva "S", planejado x executado), a fim de vizualizar de forma mais simplificada o andamento do projeto |
-| **03** | Geração de um arquivo excel com o status de avanço em cada subnível do projeto | Eu como engenheiro/líder desejo poder gerar um arquivo de excel contendo os status do avanço de cada subnível do projeto, a fim de facilitar o compartilhamento desse arquivo |
-| **03** | Leitura de arquivo Excel com lista de recursos | Eu como gerente/engenheiro desejo poder fazer o upload de arquivos excel contendo lista de pessoas e seus respectivos papéis, a fim de automatizar esse processo |
+| **03** | Geração de um arquivo excel com o status de avanço em cada subnível do projeto | Eu como engenheiro/líder desejo poder gerar um arquivo excel contendo os status do avanço de cada subnível do projeto, a fim de facilitar o compartilhamento desse arquivo |
+| **03** | Cadastro de usuário | Eu como Gerente/Engenheiro desejo poder cadastrar novos usuários, a fim fornecer acesso às funcionalidades do sistema aos colaboradores envolvidos no projeto |
+| **03** | Listagem de usuário | Eu como Gerente/Engenheiro desejo poder desejo visualizar os usuários já cadastrados, para ter acesso a suas informações |
+| **03** | Alteração dos dados do usuário | Eu como Gerente/Engenheiro desejo poder alterar os dados do usuário, a fim de poder gerenciar o mesmo |
 | **04** | Diferentes níveis de acesso | Eu como gerente desejo que o sistema tenha diferentes níveis de acesso, a fim de restringir o acesso dos usuários de acordo com seu papel |
-| **04** | Cadastro de usuário | Eu como gerente/engenheiro/lider desejo poder cadastrar novos usuários, a fim fornecer o acesso das funcionalidades do sistema aos colaboradores envolvidos no projeto |
-| **04** | Listagem de usuário | Eu como gerente/engenheiro desejo vizualizar os usuários já cadastrados para ter acesso a suas informações |
-| **04** | Alteração dos dados do usuário | Eu como gerente/engenheiro/líder desejo poder alterar os dados do usuário, a fim de poder gerenciar o mesmo |
-| **04** | Atribuição de pacotes de trabalho | Eu como engenheiro chefe desejo atribuir pacotes de trabalho a diferentes lideres de projeto, a fim de poder avançar com o projeto normalmente |
+| **04** | Atribuição |Eu como Engenheiro Chefe/Gerente desejo atribuir pacotes de trabalho e projetos a diferentes líderes de projeto e Engenheiros chefe, a fim de poder avançar com o progresso normalmente |
 
 </br><span id="criterios"></span><span id="sprint1"></span>
 <h1 align="center">Critérios de Aceitação: Sprint 1</h1>
@@ -132,4 +129,16 @@ Versão Atual: 2.0
 | Leitura de arquivo Excel com partes do projeto em diferentes subníveis | 1 - Deve ser possível fazer o upload de um arquivo Excel. 2 - O sistema deve conseguir ler a estrutura wbs do arquivo Excel, identificando todos os seus subníveis. 3 - Após a leitura, o sistema deve, automaticamente, gerar a estrutura wbs do arquivo, e permitir sua edição no software. 4 - Todos os dados devem ser persistidos em um banco de dados |
 | Definir linha base do cronograma (Planejar o avanço do projeto) | 1 - Deve haver uma tela com todos os níveis do projeto na vertical (sem micro atividades), e uma linha do tempo (em meses) na horizontal. 2 - Devem haver campos editáveis para a inserção da estimativa de progresso de cada subnível em determinado mês. 3 - Todos os dados devem ser persistidos no banco de dados. 4 - Todas as telas devem ser editáveis |
 | Salvamento do progresso (Tasks e IPDT) | 1 - Na tabela de atividades, após o início do projeto, deve ser possível  salvar o progresso ao finalizar uma atividade. 2 - De acordo com o peso da atividade que foi salva como finalizada, deve-se aumentar o progresso de seu pacote/subpacote de trabalho, que por sua vez, deve aumentar o progresso do projeto. 3 - Uma vez que a tarefa foi marcada como executada, não deve ser possível editá-la. 4 - O aumento do progresso sempre deve ser proporcional ao peso da atividade, e seguir hierarquia Subpacote <- Pacote <- Projeto. 5 - Todos os dados devem ser persistidos em um banco de dados |
+
+<span id="sprint3"></span>
+</br><h1 align="center">Critérios de Aceitação: Sprint 3</h1>
+
+| Requisitos | Critérios de Aceitação |
+| :-: | :-: |
+| Exibir gráfico planejado x executado "S" | 1 - Deve haver uma tela que exiba um gráfico de curva "S", com base no planejamento (cronograma de estimativas) e no progresso real do projeto. 2 - Na vertical deve haver uma listagem de todos os subníveis do projeto. 3 - Na horizontal, deve haver todos os meses estimados da duração do projeto |
+| Geração de um arquivo excel com o status de avanço em cada subnível do projeto | 1 - Deve haver um botão com a opção de gerar um arquivo Excel com o status de avanço em cada nível do projeto. 2 - Nesse Excel gerado, verticalmente deve haver a listagem de todos os níveis do projeto e, horizontalmente, todos os meses, bem como a porcentagem de avanço em cada nível | 
+| Cadastro de usuários | 1 - Deve haver uma página onde é possível cadastrar novos usuários. 2 - Nesse cadastro  deve haver os seguintes campos: à definir. 3 - Todas as páginas devem ser estilizadas. 4 - Todos os dados devem ser persistidos em um banco de dados |
+| Listagem de usuários | 1 - Deve haver uma página que liste todos os usuários. 2 - Ao clicar em um usuário, todas as suas informações devem ser exibidas. 3 - Todas as páginas devem estar estilizadas |
+| Alteração dos dados do usuário | 1 - Deve haver uma página, no qual é possível a edição/exclusão do usuário. 2 - Todas as páginas devem ser estilizadas. 3 - Todos os dados devem ser persistidos em um banco de dados |
+
 
