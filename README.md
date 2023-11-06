@@ -71,7 +71,7 @@ O projeto tem por base a metodologia ágil SCRUM, por isso foi separado em 4 ent
 <span id="versao"></span>
 <h1 align="center">Versionamento:</h1>
 
-A versão atual do projeto é a 2.0, equivalente à entrega da 2ª Sprint. 
+A versão atual do projeto é a 3.0, equivalente à entrega da 3ª Sprint. 
 * <a href="#sprint1">Sprint 1</a>
 * <a href="#sprint2">Sprint 2</a>
 * <a href="#sprint3">Sprint 3</a>
@@ -135,10 +135,10 @@ A versão atual do projeto é a 2.0, equivalente à entrega da 2ª Sprint.
 
 | Requisitos | Critérios de Aceitação |
 | :-: | :-: |
-| Exibir gráfico planejado x executado "S" | 1 - Deve haver uma tela que exiba um gráfico de curva "S", com base no planejamento (cronograma de estimativas) e no progresso real do projeto. 2 - Na vertical deve haver uma listagem de todos os subníveis do projeto. 3 - Na horizontal, deve haver todos os meses estimados da duração do projeto |
-| Geração de um arquivo excel com o status de avanço em cada subnível do projeto | 1 - Deve haver um botão com a opção de gerar um arquivo Excel com o status de avanço em cada nível do projeto. 2 - Nesse Excel gerado, verticalmente deve haver a listagem de todos os níveis do projeto e, horizontalmente, todos os meses, bem como a porcentagem de avanço em cada nível | 
-| Cadastro de usuários | 1 - Deve haver uma página onde é possível cadastrar novos usuários. 2 - Nesse cadastro  deve haver os seguintes campos: à definir. 3 - Todas as páginas devem ser estilizadas. 4 - Todos os dados devem ser persistidos em um banco de dados |
-| Listagem de usuários | 1 - Deve haver uma página que liste todos os usuários. 2 - Ao clicar em um usuário, todas as suas informações devem ser exibidas. 3 - Todas as páginas devem estar estilizadas |
-| Alteração dos dados do usuário | 1 - Deve haver uma página, no qual é possível a edição/exclusão do usuário. 2 - Todas as páginas devem ser estilizadas. 3 - Todos os dados devem ser persistidos em um banco de dados |
+| Exibir gráfico planejado x executado "S" |1 - Deve haver uma tela que exiba um gráfico de curva "S", com base no planejamento (cronograma de estimativas) e no progresso real do projeto. 2 - Na vertical deve haver uma listagem de todos os subníveis do projeto, permitindo a filtragem do gráfico, para exibição específica de cada subnível do projeto. 3 - Na horizontal, deve haver todos os meses estimados da duração do projeto, permitindo a filtragem do gráfico, para exibição específica de cada mês do projeto |
+| Geração de um arquivo excel com o status de avanço em cada subnível do projeto | 1 - Deve haver um botão com a opção de gerar um arquivo Excel com o status de avanço em cada nível do projeto. 2 - Nesse Excel gerado, verticalmente deve haver a listagem de todos os níveis do projeto e, horizontalmente, todos os meses, bem como a porcentagem de avanço em cada nível. 3 - O arquivo gerado deve estar organizado e alinhado, com as celular respeitando o tamanho do texto | 
+| Cadastro de usuários | 1 - Deve haver uma página onde seja possível cadastrar novos usuários. 2 - Nesse cadastro deve haver os seguintes campos: Nome completo, Email, CPF, Senha, Confirmação de Senha, Telefone e Cargo. 3 - Todas as páginas devem ser estilizadas. 4 - Todos os dados devem ser persistidos em um banco de dados |
+| Listagem de usuários | 1 - Deve haver uma página que liste todos os usuários. 2 - Ao clicar em um usuário, todas suas informações devem ser exibidas. 3 - Todas as páginas devem estar estilizadas |
+| Alteração dos dados do usuário | 1 - Deve haver uma página, no qual seja possível a edição/exclusão do usuário. 2 - Todas as páginas devem ser estilizadas. 3 - Todos os dados devem ser persistidos em um banco de dados |
 
 
