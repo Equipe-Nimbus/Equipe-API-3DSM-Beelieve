@@ -75,6 +75,7 @@ A versão atual do projeto é a 3.0, equivalente à entrega da 3ª Sprint.
 * <a href="#sprint1">Sprint 1</a>
 * <a href="#sprint2">Sprint 2</a>
 * <a href="#sprint3">Sprint 3</a>
+* <a href="#sprint4">Sprint 4</a>
 
 <span id="gif"></span>
 <h1 align="center">Gif:</h1>
@@ -141,4 +142,11 @@ A versão atual do projeto é a 3.0, equivalente à entrega da 3ª Sprint.
 | Listagem de usuários | 1 - Deve haver uma página que liste todos os usuários. 2 - Ao clicar em um usuário, todas suas informações devem ser exibidas. 3 - Todas as páginas devem estar estilizadas |
 | Alteração dos dados do usuário | 1 - Deve haver uma página, no qual seja possível a edição/exclusão do usuário. 2 - Todas as páginas devem ser estilizadas. 3 - Todos os dados devem ser persistidos em um banco de dados |
 
+<span id="sprint4"></span>
+</br><h1 align="center">Critérios de Aceitação: Sprint 4</h1>
+
+| Requisitos | Critérios de Aceitação |
+| :-: | :-: |
+| Diferentes níveis de acesso | 1 - Gerente: O Gerente será o super usuário do software, tendo acesso a todos os dados e todas as funcionalidades do sistema. 2 - Engenheiro chefe: O Engenheiro Chefe terá acesso a todas as funcionalidades e informações dos projetos que ele está trabalhando (vale ressaltar que a criação e exclusão do projeto se restringem apenas ao gerente). 3 - Líder de pacote de trabalho: Os líderes de pacote de trabalho terão acesso a todas as informações do projeto e quase todas as funcionalidades referentes ao projeto que estão trabalhando. Suas funcionalidades incluem: Editar a tabela de pacotes de trabalho por completa, editar a tabela de atividades por completa, Preencher e editar a tela de planejamento e editar a estrutura wbs antes do início do projeto. Resumidamente são todas as funcionalidades do engenheiro chefe com exceção da inicialização do projeto. 4 - Analista: O Analista pode somente VISUALIZAR todas as informações do projeto que ele está trabalhando. 5 - Deve haver uma tela de login, na qual o usuário consiga acessar o site através de sua matrícula e senha. 6 - Ao acessar o site, as informações e funcionalidades devem ser filtradas de acordo com o usuário logado. 7 - Todos os dados devem ser persistidos em um banco de dados. 8 - Todas as telas devem ser estilizadas |
+| Atribuição | 1 - Na tabela de atividades, deve haver uma coluna na qual seja possível atribuir um grupo de trabalho àquela atividade. 2 - No cadastro do projeto e na tabela dos pacotes de trabalho devem existir campos nos quais seja possível atribuir um engenheiro chefe àquele projeto. 3 - Na tabela dos pacotes de trabalho deve haver campos nos quais sejam possíveis atribuir líderes de pacote de trabalho à cada pacote de trabalho. 4 - Deve haver um campo no qual seja possível atribuir analistas àquele projeto. 5 - Um engenheiro chefe deve poder estar atribuído a mais de um projeto. 6 - Um líder de pacote de trabalho deve poder estar atribuído a mais de um pacote e atuando em diferentes projetos. 7 - Um analista deve poder estar atribuído a mais de um projeto. 8 - Um grupo de trabalho pode estar atribuído a mais de uma atividade e a mais de um projeto. 9 - Todos os dados devem ser persistidos em um banco de dados. 10 - Todas as telas devem ser estilizadas. |
 
